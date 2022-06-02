@@ -15,8 +15,8 @@
 
 "welcomemessage" : "파티를 생성하고 알림을 보내주는 파티봇입니다! 이 봇에 사용되는 시간은 모두 한국표준시를 기준으로 합니다. 참고로 이 봇은 DM에는 대답하지 않습니다!\n시작하려면 +prefix+명령어를 디코 서버에서 입력해 보세요!",
  
-"prime" = {"ko":"프라임", "en":"prime"},
-"set_" = {"ko":"세트", "en":"set"},
-"no_description" = {"ko": "설명이 없습니다.", "en":"No description provided."}
+"prime" : {"ko":"프라임", "en":"prime"},
+"set_" : {"ko":"세트", "en":"set"},
+"no_description" : {"ko": "설명이 없습니다.", "en":"No description provided."}
   
 }
