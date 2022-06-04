@@ -28,7 +28,7 @@
             "Primary":{"ko":"주무기","en":"Primary"},
             "Secondary":{"ko":"보조무기","en":"Secondary"},
             "Melee":{"ko":"근접무기","en":"Melee"},
-            "Gear":{"ko":"장비","en":"Gear"},
+            "Gear":{"ko":"도구","en":"Gear"},
             "Pistol":{"ko":"권총", "en":"Pistol"}},
 "polarity":{"madurai":{"ko":"마두라이","en":"Madurai"}, "vazarin":{"ko":"바자린","en":"Vazarin"}, "naramon":{"ko":"나라몬","en":"Naramon"},"zenurik":{"ko":"제누릭","en":"Zenurik"},"unairu":{"ko":"유나이루","en":"Unairu"},"penjaga":{"ko":"펜자가","en":"Penjaga"},"umbra":{"ko":"움브라","en":"Umbra"},"aura":{"ko":"오라","en":"Aura"}},
  
