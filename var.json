@@ -20,6 +20,7 @@
 "no_description" : {"ko": "설명이 없습니다.", "en":"No description provided."},
 "able_trans" : {"ko": {"True":"가능", "False":"불가능"}, "en":{"True":"Tradable","False":"Unable"}},
 "category":{"Mods":{"ko":"모드","en":"Mod"},"Resources":{"ko":"자원","en":"Resource"},"Warframes":{"ko":"워프레임","en":"Warframe"},"Pets":{"ko":"동반자","en":"Pets"},"Arcanes":{"ko":"아케인","en":"Arcane"},"Primary":{"ko":"주무기","en":"Primary"},"Secondary":{"ko":"보조무기","en":"Secondary"},"Melee":{"ko":"근접무기","en":"Melee"}},
+"polarity":{"Madurai":{"ko":"마두라이","en":"Madurai"}, "Vazarin":{"ko":"바자린","en":"Vazarin"}, "Naramon":{"ko":"나라몬","en":"Naramon"},"Zenurik":{"ko":"제누릭","en":"Zenurik"},"Unairu":{"ko":"유나이루","en":"Unairu"},"Penjaga":{"ko":"펜자가","en":"Penjaga"},"Umbra":{"ko":"움브라","en":"Umbra"},"Aura":{"ko":"오라","en":"Aura"}},
  
  "number_emojis" : ["0️⃣", "1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣", "7️⃣", "8️⃣", "9️⃣"]
   
