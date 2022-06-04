@@ -18,7 +18,7 @@
 "prime" : {"ko":"프라임", "en":"prime"},
 "set_" : {"ko":"세트", "en":"set"},
 "no_description" : {"ko": "설명이 없습니다.", "en":"No description provided."},
-"category":{"Mods":{"ko":"모드","en":"Mod"},"Resources":{"ko":"자원","en":"Resource"},"Warframes":{"ko":"워프레임","en":"Warframe"},"Arcanes":{"ko":"아케인","en":"Arcane"},"Primary":{"ko":"주무기","en":"Primary"},"Secondary":{"ko":"보조무기","en":"Secondary"},"Melee":{"ko":"근접무기","en":"Melee"}},
+"category":{"Mods":{"ko":"모드","en":"Mod"},"Resources":{"ko":"자원","en":"Resource"},"Warframes":{"ko":"워프레임","en":"Warframe"},"Pets":{"ko":"동반자","en":"Pets"},"Arcanes":{"ko":"아케인","en":"Arcane"},"Primary":{"ko":"주무기","en":"Primary"},"Secondary":{"ko":"보조무기","en":"Secondary"},"Melee":{"ko":"근접무기","en":"Melee"}},
  
  "number_emojis" : ["0️⃣", "1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣", "7️⃣", "8️⃣", "9️⃣"]
   
