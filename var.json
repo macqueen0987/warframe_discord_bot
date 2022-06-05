@@ -38,6 +38,7 @@
             "Secondary":{"ko":"보조무기","en":"Secondary"},
             "Melee":{"ko":"근접무기","en":"Melee"},
             "Gear":{"ko":"도구","en":"Gear"},
+            "Archwing":{"ko":"아크윙","en":"Archwing"},
             "Pistol":{"ko":"권총", "en":"Pistol"}},
  
 "polarity":{"madurai":{"ko":"마두라이","en":"Madurai"}, 
