@@ -17,8 +17,15 @@
  
 "prime" : {"ko":"프라임", "en":"prime"},
 "set_" : {"ko":"세트", "en":"set"},
+"parts" : {"Barrel":{"ko":"배럴", "en":"Barrel"},
+           "Blueprint":{"ko":"설계도", "en":"Blueprint"},
+           "Orokin Cell":{"ko":"오로킨 셀", "en":"Orokin Cell"},
+           "Stock":{"ko":"스톡", "en":"Stock"},
+           "Receiver":{"ko":"리시버", "en":"Receiver"}},
+ 
 "no_description" : {"ko": "설명이 없습니다.", "en":"No description provided."},
 "able_trans" : {"ko": {"True":"가능", "False":"불가능"}, "en":{"True":"Tradable","False":"Unable"}},
+ 
 "category":{"Mods":{"ko":"모드","en":"Mod"},
             "Resources":{"ko":"자원","en":"Resource"},
             "Fish":{"ko":"생선","en":"Fish"},
@@ -30,7 +37,15 @@
             "Melee":{"ko":"근접무기","en":"Melee"},
             "Gear":{"ko":"도구","en":"Gear"},
             "Pistol":{"ko":"권총", "en":"Pistol"}},
-"polarity":{"madurai":{"ko":"마두라이","en":"Madurai"}, "vazarin":{"ko":"바자린","en":"Vazarin"}, "naramon":{"ko":"나라몬","en":"Naramon"},"zenurik":{"ko":"제누릭","en":"Zenurik"},"unairu":{"ko":"유나이루","en":"Unairu"},"penjaga":{"ko":"펜자가","en":"Penjaga"},"umbra":{"ko":"움브라","en":"Umbra"},"aura":{"ko":"오라","en":"Aura"}},
+ 
+"polarity":{"madurai":{"ko":"마두라이","en":"Madurai"}, 
+            "vazarin":{"ko":"바자린","en":"Vazarin"}, 
+            "naramon":{"ko":"나라몬","en":"Naramon"},
+            "zenurik":{"ko":"제누릭","en":"Zenurik"},
+            "unairu":{"ko":"유나이루","en":"Unairu"},
+            "penjaga":{"ko":"펜자가","en":"Penjaga"},
+            "umbra":{"ko":"움브라","en":"Umbra"},
+            "aura":{"ko":"오라","en":"Aura"}},
  
  "number_emojis" : ["0️⃣", "1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣", "7️⃣", "8️⃣", "9️⃣"]
   
