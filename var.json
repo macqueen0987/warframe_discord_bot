@@ -21,6 +21,8 @@
            "Blueprint":{"ko":"설계도", "en":"Blueprint"},
            "Orokin Cell":{"ko":"오로킨 셀", "en":"Orokin Cell"},
            "Stock":{"ko":"스톡", "en":"Stock"},
+           "Blade":{"ko":"블레이드", "en":"Blade"},
+           "Handle":{"ko":"핸들", "en":"Handle"},
            "Receiver":{"ko":"리시버", "en":"Receiver"}},
  
 "no_description" : {"ko": "설명이 없습니다.", "en":"No description provided."},
