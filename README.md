@@ -1,4 +1,4 @@
-# warframe_discord_bot
+# 워프레임 디스코드 봇 - 세팔론 이오타
 
 
 https://user-images.githubusercontent.com/44331678/172082274-6113f24f-c3c6-4b67-af5c-388eb4a87f46.mp4
