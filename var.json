@@ -30,6 +30,7 @@
             "Pets":{"ko":"동반자","en":"Pets"},
             "Arcanes":{"ko":"아케인","en":"Arcane"},
             "Primary":{"ko":"주무기","en":"Primary"},
+            "Sniper":{"ko":"스나이퍼","en":"Sniper"},
             "Secondary":{"ko":"보조무기","en":"Secondary"},
             "Melee":{"ko":"근접무기","en":"Melee"},
             "Gear":{"ko":"도구","en":"Gear"},
