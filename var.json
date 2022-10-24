@@ -12,6 +12,7 @@
 "welcomemessage" : "워프레임과 관련된 각종 정보를 알려주는 봇입니다. 참고로 이 봇은 DM에는 대답하지 않습니다!\n시작하려면 +prefix+명령어를 디코 서버에서 입력해 보세요!\n 이 봇이 가져오는 모든 정보는 https://hub.warframestat.us/ 과 https://warframe.market/ 에 의존하며 해당 사이트의 API를 사용해 만들어졌습니다.",
  
 "prime" : {"ko":"프라임", "en":"prime"},
+ "prime" : {"ko":"프라임", "en":"prime"},
 "set_" : {"ko":"세트", "en":"set"},
 "parts" : {"Barrel":{"ko":"배럴", "en":"Barrel"},
            "Blueprint":{"ko":"설계도", "en":"Blueprint"},
